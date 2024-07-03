@@ -1,0 +1,17 @@
+#name-input {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 20px;
+  display: block;
+  width: 100%;
+  max-width: 300px;
+}
+
+h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+#name-output {
+  color: #007bff;
+}
